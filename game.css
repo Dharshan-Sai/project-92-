@@ -1,0 +1,63 @@
+body {
+    background-image: url(https://jooinn.com/images/night-sky-17.jpg);
+    background-size: cover;
+    background-position: center;
+}
+ 
+#hede {
+    font-size: 150px;
+    color: white;
+}
+
+#name_1 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#name_2 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#divvv {
+    text-align: center;
+}
+
+.login_div1
+{
+    text-align: center;
+}
+
+#butt {
+    font-size: 18;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#head4
+{
+    color: antiquewhite;
+}
+
+#head2 
+{
+    color: antiquewhite;
+} 
+
+#player1_name {
+    color: antiquewhite;
+}
+
+#player2_name {
+    color: antiquewhite;
+}
